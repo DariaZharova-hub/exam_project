@@ -13,9 +13,9 @@
 <li>Information about public transport</li>
 <li>Information about events in the city.</li>
 <li>A notice board for residents.</li>
-<li>li>A chat room for residents to find useful contacts and new acquaintances</li>
+<li>A chat room for residents to find useful contacts and new acquaintances</li>
 
-![Image alt]([https://github.com//DariaZharova-hub/exam_project/blob/main/website%20Pinki.png](https://github.com/DariaZharova-hub/exam_project/blob/main/website%20Pinki.png))
+![Image alt](https://github.com/DariaZharova-hub/exam_project/blob/main/website%20Pinki.png)
 
 </div>
 
