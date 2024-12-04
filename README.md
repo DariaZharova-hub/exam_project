@@ -18,6 +18,7 @@
 <li>A notice board for residents.</li>
 <li>A chat room for residents to find useful contacts and new acquaintances</li>
 
+![Image alt](https://github.com/DariaZharova-hub/exam_project/blob/main/church1.png)
 ![Image alt](https://github.com/DariaZharova-hub/exam_project/blob/main/website%20Pinki.png)
 
 </div>
