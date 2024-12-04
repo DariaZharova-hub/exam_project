@@ -8,7 +8,7 @@
 ![Image alt](https://github.com/DariaZharova-hub/exam_project/blob/main/church1.png)
 <p>It's also hard to believe, but 20 minutes from Riga you can go davening in the open air. </p>
 
-![Image alt]([https://github.com/DariaZharova-hub/exam_project/blob/main/church1.png](https://github.com/DariaZharova-hub/exam_project/blob/main/diving.png))
+![Image alt](https://github.com/DariaZharova-hub/exam_project/blob/main/diving.png)
 <p> And about other interesting places</p>
     <strong>Why did I pick this town?</strong>
 <li>Piņķi doesn’t have own WebSite</li>
