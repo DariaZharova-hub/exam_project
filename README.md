@@ -4,7 +4,7 @@
     <p> The goal of the project is to create a website for one of the cities in Latvia. I have choosen Pinki.</p>
     <p>The goal of my project will be to create a simple website with pictures and useful information. For example, in <a href="https://www.pinkudraudze.lv/">Piņķi there is St. John's Evangelical Lutheran Church</a>, which was built in the 19th century.
      </p>
-    ![Image alt]([https://github.com/DariaZharova-hub/exam_project/blob/main/church.jpg](https://github.com/DariaZharova-hub/exam_project/blob/main/church1.png))
+    ![Image alt](https://github.com/DariaZharova-hub/exam_project/blob/main/church1.png)
     <strong>Why did I pick this town?</strong>
 <li>Piņķi doesn’t have own WebSite</li>
 <li>Not enough information about the city on the internet</li>
