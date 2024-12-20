@@ -181,7 +181,6 @@ function drawClock() {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     ctx.save();
 
-    // Draw clock face
     ctx.beginPath();
     ctx.arc(150, 150, 140, 0, Math.PI * 2);
     ctx.fillStyle = 'white';
@@ -190,7 +189,7 @@ function drawClock() {
     ctx.lineWidth = 5;
     ctx.stroke();
 
-    // Draw hour markers
+  
     for (let i = 0; i < 12; i++) {
         const angle = (i * Math.PI) / 6; // 30 degrees in radians
         ctx.save();
@@ -201,7 +200,7 @@ function drawClock() {
         ctx.restore();
     }
 
-    // Draw hour hand
+
     const hourAngle = ((hours % 12) + minutes / 60) * (Math.PI / 6);
     ctx.save();
     ctx.translate(150, 150);
@@ -214,7 +213,7 @@ function drawClock() {
     ctx.stroke();
     ctx.restore();
 
-    // Draw minute hand
+
     const minuteAngle = (minutes + seconds / 60) * (Math.PI / 30);
     ctx.save();
     ctx.translate(150, 150);
@@ -227,7 +226,6 @@ function drawClock() {
     ctx.stroke();
     ctx.restore();
 
-    // Draw second hand
     const secondAngle = seconds * (Math.PI / 30);
     ctx.save();
     ctx.translate(150, 150);
@@ -243,9 +241,9 @@ function drawClock() {
     ctx.restore();
 }
 
-// Update the clock every second
+
 setInterval(drawClock, 1000);
-drawClock(); // Initial call to draw the clock immediately
+drawClock(); 
 </script>
 <img class="fakeimg" style="height:300px;"src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzB2b3dvY2szbzA3dG02ZHF4cGdtb3dnbzFkeWx3MmJ5eHRicGcwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o8dp7vEroP9E0WSdi/giphy.webp" >
  
